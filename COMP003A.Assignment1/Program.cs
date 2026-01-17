@@ -75,6 +75,16 @@
 			Console.WriteLine("68. Thing68");
 			Console.WriteLine("69. Thing69");
 			Console.WriteLine("70. Thing70");
+			Console.WriteLine("71. Thing71");
+			Console.WriteLine("72. Thing72");
+			Console.WriteLine("73. Thing73");
+			Console.WriteLine("74. Thing74");
+			Console.WriteLine("75. Thing75");
+			Console.WriteLine("76. Thing76");
+			Console.WriteLine("77. Thing77");
+			Console.WriteLine("78. Thing78");
+			Console.WriteLine("79. Thing79");
+			Console.WriteLine("80. Thing80");
 		}
     }
 }
